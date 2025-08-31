@@ -1,7 +1,7 @@
 ﻿using Application.IService;
 using Microsoft.AspNetCore.Mvc;
-using Domian.Response;
 using Domain.Entities.CRUDEntities;
+using Domain.Entities.Response;
 
 namespace CRUD_WEB_API.Controllers
 {
@@ -27,7 +27,7 @@ namespace CRUD_WEB_API.Controllers
             {
                 if (studentData == null)
                 {
-                    return BadRequest("Invalid data. Please provide valid Student information.");
+                    return BadRequest("Invalid data. Please provide valid Student information."); 
                 }
                 var memberStatus = crudData.StudentDataEntry(studentData);
                 ResponseMessage responseMessage = new ResponseMessage();
