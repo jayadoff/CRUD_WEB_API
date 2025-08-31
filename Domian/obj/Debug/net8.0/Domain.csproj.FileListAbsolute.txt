@@ -1,0 +1,11 @@
+D:\CRUD_WEB_APLICATION\Domian\bin\Debug\net8.0\Domain.deps.json
+D:\CRUD_WEB_APLICATION\Domian\bin\Debug\net8.0\Domain.dll
+D:\CRUD_WEB_APLICATION\Domian\bin\Debug\net8.0\Domain.pdb
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\Domain.dll
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\refint\Domain.dll
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\Domain.pdb
+D:\CRUD_WEB_APLICATION\Domian\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRUD_WEB_APLICATION\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|d:\\crud_web_aplication\\crud_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|solutionrelative:crud_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BCB948-77DD-4238-A265-AB3F1FBE530C}|Infrastructure\\Infrastructure.csproj|d:\\crud_web_aplication\\infrastructure\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BCB948-77DD-4238-A265-AB3F1FBE530C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851E6815-999C-4472-B606-CE2A959EC21B}|Application\\Application.csproj|d:\\crud_web_aplication\\application\\service\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851E6815-999C-4472-B606-CE2A959EC21B}|Application\\Application.csproj|solutionrelative:application\\service\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|d:\\crud_web_aplication\\crud_web_api\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|solutionrelative:crud_web_api\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851E6815-999C-4472-B606-CE2A959EC21B}|Application\\Application.csproj|d:\\crud_web_aplication\\application\\iservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851E6815-999C-4472-B606-CE2A959EC21B}|Application\\Application.csproj|solutionrelative:application\\iservice\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851E6815-999C-4472-B606-CE2A959EC21B}|Application\\Application.csproj|d:\\crud_web_aplication\\application\\irepository\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851E6815-999C-4472-B606-CE2A959EC21B}|Application\\Application.csproj|solutionrelative:application\\irepository\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9647A30-001A-4F75-9153-A5B8EC2B6255}|Domian\\Domain.csproj|d:\\crud_web_aplication\\domian\\entities\\crudentities\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9647A30-001A-4F75-9153-A5B8EC2B6255}|Domian\\Domain.csproj|solutionrelative:domian\\entities\\crudentities\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9647A30-001A-4F75-9153-A5B8EC2B6255}|Domian\\Domain.csproj|d:\\crud_web_aplication\\domian\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9647A30-001A-4F75-9153-A5B8EC2B6255}|Domian\\Domain.csproj|solutionrelative:domian\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "RelativeToolTip": "CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:58:49.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrudRepository.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\Infrastructure\\Repository\\CrudRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CrudRepository.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\Infrastructure\\Repository\\CrudRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CrudRepository.cs",
+              "ViewState": "AgIAABUAAABAVdW7GnwbwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:51:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\Domian\\Response\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "Domian\\Response\\ResponseMessage.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\Domian\\Response\\ResponseMessage.cs",
+              "RelativeToolTip": "Domian\\Response\\ResponseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T07:08:18.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudService.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\Application\\Service\\CrudService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\CrudService.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\Application\\Service\\CrudService.cs",
+              "RelativeToolTip": "Application\\Service\\CrudService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T07:04:59.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\Application\\IService\\ICrudService.cs",
+              "RelativeDocumentMoniker": "Application\\IService\\ICrudService.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\Application\\IService\\ICrudService.cs",
+              "RelativeToolTip": "Application\\IService\\ICrudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T06:14:46.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICrudRepository.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\Application\\IRepository\\ICrudRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepository\\ICrudRepository.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\Application\\IRepository\\ICrudRepository.cs",
+              "RelativeToolTip": "Application\\IRepository\\ICrudRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:49:24.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\CRUD_WEB_API\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_WEB_API\\Program.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\CRUD_WEB_API\\Program.cs",
+              "RelativeToolTip": "CRUD_WEB_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T05:13:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_APLICATION\\Domian\\Entities\\CRUDEntities\\StudentData.cs",
+              "RelativeDocumentMoniker": "Domian\\Entities\\CRUDEntities\\StudentData.cs",
+              "ToolTip": "D:\\CRUD_WEB_APLICATION\\Domian\\Entities\\CRUDEntities\\StudentData.cs",
+              "RelativeToolTip": "Domian\\Entities\\CRUDEntities\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T07:25:36.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
