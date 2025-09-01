@@ -1,11 +1,7 @@
 ﻿using Infrastructure.DbContext;
 using Microsoft.Extensions.Configuration;
 using Oracle.ManagedDataAccess.Client;
-using System;
 using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Application.IRepository;
 using Domain.Entities.CRUDEntities;
 
@@ -13,7 +9,7 @@ using Domain.Entities.CRUDEntities;
 
 namespace Infrastructure.Repository
 {
-    public class CrudRepository :ICrudRepository
+    public class CrudRepository : ICrudRepository
     {
         private readonly OracleDbConnection _dbConnection;
         public CrudRepository(IConfiguration configuration)
@@ -35,7 +31,7 @@ namespace Infrastructure.Repository
               //  Params[2] = _dbConnection.MakeInParameter(studentData.ROW_STATUS, OracleDbType.Decimal);
                 //Params[3] = _dbConnection.MakeInParameter(studentData.ORG_CODE, OracleDbType.Varchar2);
        
-                var Status = _dbConnection.RunProcedureWithReturnValAndStatus("DPG_EMS_PREV_STUDENT_ADMISSION.DPD_PREV_STUDENT_MST_INFO", Params);
+                var Status = _dbConnection.RunProcedureWithReturnValAndStatus("DPG_EMS_PREV_STUDENT_ADMISSION.DPD_PREV_STUDENT_MST_INFO", Params); 
                 if (Status.status == 1)
                 {
                     message[0] = Status.response;
@@ -54,5 +50,7 @@ namespace Infrastructure.Repository
                 return (Status.status, message);
             }
         }
+
+    
     }
 }

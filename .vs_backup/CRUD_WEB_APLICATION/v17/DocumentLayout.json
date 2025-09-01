@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CRUD_WEB_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|d:\\crud_web_api\\crud_web_api\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|solutionrelative:crud_web_api\\controllers\\crudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|d:\\crud_web_api\\crud_web_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{0C94D0E2-8D02-409D-9E13-DCED03EF06C7}|CRUD_WEB_API\\CRUD_WEB_API.csproj|solutionrelative:crud_web_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34BCB948-77DD-4238-A265-AB3F1FBE530C}|Infrastructure\\Infrastructure.csproj|d:\\crud_web_api\\infrastructure\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34BCB948-77DD-4238-A265-AB3F1FBE530C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|d:\\crud_web_api\\domain\\entities\\crudentities\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\crudentities\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|d:\\crud_web_api\\domain\\entities\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|d:\\crud_web_api\\domain\\entities\\reference\\referenceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\reference\\referenceinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|d:\\crud_web_api\\domain\\entities\\common\\params\\orgbranchparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16369DC9-CEA5-4F91-9B4C-B13698862AAC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\common\\params\\orgbranchparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\CRUD_WEB_API\\CRUD_WEB_API\\.gitignore",
+              "RelativeDocumentMoniker": "CRUD_WEB_API\\.gitignore",
+              "ToolTip": "D:\\CRUD_WEB_API\\CRUD_WEB_API\\.gitignore",
+              "RelativeToolTip": "CRUD_WEB_API\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-31T12:43:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrudController.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_API\\CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "RelativeDocumentMoniker": "CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "ToolTip": "D:\\CRUD_WEB_API\\CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "RelativeToolTip": "CRUD_WEB_API\\Controllers\\CrudController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:39:21.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrudRepository.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_API\\Infrastructure\\Repository\\CrudRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\CrudRepository.cs",
+              "ToolTip": "D:\\CRUD_WEB_API\\Infrastructure\\Repository\\CrudRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\CrudRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:38:59.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_API\\Domain\\Entities\\Response\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Response\\ResponseMessage.cs",
+              "ToolTip": "D:\\CRUD_WEB_API\\Domain\\Entities\\Response\\ResponseMessage.cs",
+              "RelativeToolTip": "Domain\\Entities\\Response\\ResponseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:35:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReferenceInfo.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_API\\Domain\\Entities\\Reference\\ReferenceInfo.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Reference\\ReferenceInfo.cs",
+              "ToolTip": "D:\\CRUD_WEB_API\\Domain\\Entities\\Reference\\ReferenceInfo.cs",
+              "RelativeToolTip": "Domain\\Entities\\Reference\\ReferenceInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:32:20.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_API\\Domain\\Entities\\CRUDEntities\\StudentData.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CRUDEntities\\StudentData.cs",
+              "ToolTip": "D:\\CRUD_WEB_API\\Domain\\Entities\\CRUDEntities\\StudentData.cs",
+              "RelativeToolTip": "Domain\\Entities\\CRUDEntities\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:30:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrgBranchParams.cs",
+              "DocumentMoniker": "D:\\CRUD_WEB_API\\Domain\\Entities\\Common\\Params\\OrgBranchParams.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Common\\Params\\OrgBranchParams.cs",
+              "ToolTip": "D:\\CRUD_WEB_API\\Domain\\Entities\\Common\\Params\\OrgBranchParams.cs",
+              "RelativeToolTip": "Domain\\Entities\\Common\\Params\\OrgBranchParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:26:52.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
